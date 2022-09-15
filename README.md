@@ -1,4 +1,4 @@
-# -Credit-Card-Default-Prediction
+# Credit-Card-Default-Prediction
 <h><img src="https://media.giphy.com/media/xT5LMXFGXmuKKkoCWs/giphy.gif" align="centre"></h>
 <h1 align="center"> Credit Card Default Prediction - ML Classification </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
@@ -10,13 +10,21 @@
 <p>The dataset contained over 25 variables and they are listed below</p>
 
 **GENDER**            -    1 – Married ,2 – Single, 3 – Others
+
 **EDUCATION**         -  1 – Graduate School,2 – University ,3 – High School, 4 – Others 
+
 **MARRIAGE**          -  1 – Married, 2 – Single ,3 – Others
+
 **REPAYMENT HISTORY** -  PAY_1 – September, PAY_2 – August, PAY_3 –  July, PAY_4 – June, PAY_5 –  May, PAY_6 – April
+
 **DEFAULT**           -  1- YES , 0 - NO 
+
 **LIMIT_BALANCE**     - Amount of Credit given in New Taiwan Dollars
+
 **AGE**               - Age in years 
+
 **BILL AMOUNT**       - BILL_AMT1 – September, BILL_AMT2 –  August, BILL_AMT3 – July, BILL_AMT4 – June, BILL_AMT5 – May, BILL_AMT6 – April
+
 **PAY_AMOUNT**        - PAY_AMT1 – September. PAY_AMT2 –  August, PAY_AMT3 –  July, PAY_AMT4 –  June, PAY_AMT5 – May, PAY_AMT6 –  April
 
 
